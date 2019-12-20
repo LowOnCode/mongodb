@@ -1,0 +1,1 @@
+# LowOnCode component for connecting to a mongodb
